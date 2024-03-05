@@ -61,7 +61,7 @@ public class metodosLoginPage {
     	File DestFile = new File ("./src/evidencias" + nome + "png");
     	FileUtils.copyDirectory(SrcFile, DestFile);
     	
-    	teste jandkjb
+    	
     	
     }
     	
